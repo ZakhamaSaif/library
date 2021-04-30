@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a52a2a</color>
+    <color name="colorPrimaryDark">#a52a2a</color>
+    <color name="colorAccent">#006600</color>
+    <color name="colorBlue">#004d99</color>
+    <color name="signinbg">#395956</color>
+    <color name="black">#000000</color>
+    <color name="updatebg">#24B3A5</color>
+
+</resources>
